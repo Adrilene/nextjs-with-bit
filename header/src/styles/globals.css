@@ -1,0 +1,18 @@
+* { 
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica;
+}
+
+.header-app{
+  text-align: center;
+  background-color: #65468b;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.header-app:hover{
+  background-color: #533b6f;
+  text-shadow: black;
+  color: white;
+}
