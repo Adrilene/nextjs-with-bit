@@ -1,0 +1,19 @@
+* { 
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica;
+}
+
+.footer-app{
+  text-align: center;
+  background-color: #e0677f;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  bottom: 0;
+}
+
+.footer-app:hover{
+  background-color: #6f2d3b;
+  text-shadow: black;
+  color: white;
+}

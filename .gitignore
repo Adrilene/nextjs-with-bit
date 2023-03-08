@@ -1,3 +1,6 @@
+node_modules
+.bit
+.next
 # Logs
 logs
 *.log
